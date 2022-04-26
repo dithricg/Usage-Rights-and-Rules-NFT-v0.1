@@ -1,7 +1,7 @@
 # Usage-Rights-and-Rules-NFT-v0.1
 Usage Rights and Rules NFT v0.1
 
-PT-BR Versão original
+## PT-BR Versão original
 
 A ideia com as regras é garantir a nossa comunidade exclusividade e acesso único e verdadeiro aos itens adquiridos de nossas coleções. Garantindo a liberdade de uso dos tokens adquiridos para seus próprios fins.
 
@@ -17,7 +17,7 @@ A ideia com as regras é garantir a nossa comunidade exclusividade e acesso úni
 
 *Paragrafo 6* - O desenvolvedor da coleção se da o direito de atualizar o contrato de acordo com as necessidades desde que não mude a ideia principal para a qual essas regras foram criadas. Para quaisquer problemas relacionados e tradução e ambiguidade de texto a versão em português se sobrepõem.
 
-EN English Version
+## EN English Version
 
 The idea with the rules is to guarantee our community exclusivity and unique and access to items purchased from our collections. Ensuring the freedom to use acquired tokens for their own purposes.
 
